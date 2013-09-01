@@ -1,0 +1,7 @@
+*.gz
+
+npm-debug.log
+node_modules/*
+test/*
+test2/*
+testmkdir/*
